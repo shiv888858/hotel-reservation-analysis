@@ -2,6 +2,7 @@
 Hotel reservation analysis project showcasing KPI analysis, booking trends, and cancellation insights using Power BI.
 
 Project Overview
+
 Analyzed 50K+ hotel reservation records to understand booking behavior, cancellations, and occupancy trends.
 The dashboard supports pricing and operational decisions by identifying demand patterns and high-cancellation segments.
 
@@ -18,10 +19,10 @@ Revenue Rate
 📷 Dashboard Preview
 
 🏨 Hotel Booking Overview Dashboard
-![Overview Dashboard](Dashboard/overview_dashboard.png)
+![Overview Dashboard](Dashboard_Screenshots/overview_dashboard.png)
 
 📊 Booking & Cancellation Analysis Dashboard
-![Analysis Dashboard](Dashboard/analysis_dashboard.png)
+![Analysis Dashboard](Dashboard_Screenshots/analysis_dashboard.png)
 
 
 🧠 Insights Generated
