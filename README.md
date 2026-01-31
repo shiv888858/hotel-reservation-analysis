@@ -41,10 +41,5 @@ Power BI – Dashboard & visualization
 
 Excel – Data preprocessing
 
-📂 Power BI File
 
-The complete interactive Power BI dashboard is available in this repository.
-
-- File: `PowerBI/hotel_reservation_dashboard.pbix`
-- Open using: Power BI Desktop
 
